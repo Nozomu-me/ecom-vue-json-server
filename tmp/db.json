@@ -38,7 +38,12 @@
   "products": [
     {
       "id": 1004,
-      "reviews":[],
+      "reviews":[
+        {
+          "customerFullName": "amal ouassit",
+          "content": "a review test"
+        }
+      ],
       "brand": "glossier",
       "name": "Stretch Concealer",
       "price": "22.0",
